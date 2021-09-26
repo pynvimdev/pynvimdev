@@ -4,8 +4,14 @@ which is currently losing popularity after the release of LSP for Neovim.
 
 
 # Projects
-- Check my dotfiles
+- Check out my dotfiles
 https://github.com/pynvimdev/Dotfiles_public
+
+- Check out my Space app
+https://github.com/pynvimdev/space_game
+
+- Check my Neovim based IDE
+https://github.com/pynvimdev/Solarvim
 
 # What do i do ?
 Create some good python projects and vim plugins. I also write some extra comments in the source code of forked projects so that you can understand what the code does
