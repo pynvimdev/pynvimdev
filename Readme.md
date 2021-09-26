@@ -1,6 +1,14 @@
 # Hello Folks,
-My name is Jhon and I am a Student who writes code
+My name is Hari and I am a Student who writes code based on India. I write some code, maintain some good projects like YCM(YouCompleteMe) and COC(Conqueror Of Completeion) 
+which is currently losing popularity after the release of LSP for Neovim.
 
+
+# Projects
+- Check my dotfiles
+https://github.com/pynvimdev/Dotfiles_public
+
+# What do i do ?
+Create some good python projects and vim plugins. I also write some extra comments in the source code of forked projects so that you can understand what the code does
 
 # Github status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pynvimdev&show_icons=trueshow_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
