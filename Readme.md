@@ -1,10 +1,9 @@
 <div align="center">
-<img height="150" src="https://github.com/pynvimdev/pynvimdev/blob/main/1.gif" alt="gif with funny random cat say thank you." />
+<img height="150" src="https://github.com/pynvimdev/pynvimdev/blob/main/coding.gif" alt="gif with funny random cat say thank you." />
 </div>
 
 <p align="center">
-<b><a href="https://github.com/golang/go">Pythonista</a></b>
-•
+<b><a href="https://python.org">Pythonista</a></b>
 <b><a href="https://github.com/neovim/neovim">(Neo)Vimer</a></b>
 
 </p>
@@ -26,20 +25,29 @@
 ### <img alt="vim icon" src="https://github.com/pynvimdev/pynvimdev/blob/main/vim.svg" width=20 /> Vim stuffs
 
 - <img alt="lua icon" src="https://github.com/glepnir/glepnir/raw/master/octicons/lua.svg" width=24 />  **Written in Lua Neovim Only**
-  - [lspsaga.nvim](https://github.com/glepnir/lspsaga.nvim) enhance neovim built-in lsp UI performance
-  - [galaxyline.nvim](https://github.com/glepnir/galaxyline.nvim) a highliy custom support neovim stautsline
-  - [indent-guides.nvim](https://github.com/glepnir/indent-guides.nvim) neovim indent plugins
-  - [prodoc.nvim](https://github.com/glepnir/prodoc.nvim) neovim comment and
-    annotation plugin
-  - [nvim](https://github.com/glepnir/nvim) My personal neovim config with lots of person hack and
-    all written in lua.
-  - [zephyr-nvim](https://github.com/glepnir/zephyr-nvim) A dark neovim colorscheme Written in lua
-  - [lsp_extensions.nvim](https://github.com/nvim-lua/lsp_extensions.nvim) Neovim built-in lsp extensions
-  - [nvim-lua-guide-zh](https://github.com/glepnir/nvim-lua-guide-zh) nvim lua guide Chinese version
+
 
 - <img alt="vim icon" src="https://github.com/pynvimdev/pynvimdev/blob/main/vim.svg" width=24 /> **Written in Vimscript**
-  - [dashboard-nvim](https://github.com/glepnir/dashboard-nvim) Vim/Neovim startup plugin
-  - [spaceline.vim](https://github.com/glepnir/spaceline.vim) Vim/Neovim statusline plugin like spacemacs
-  - [oceanic material](https://github.com/glepnir/oceanic-material) Vim/Neovim Colorscheme
+
 
 ### <img alt="python icon" src = "https://github.com/pynvimdev/pynvimdev/blob/main/pythonloa.png" width=24 /> Python stuffs
+   
+   - Python Projects
+      - [Python Hangman](https://github.com/pynvimdev/Python_Hangman) A simple Python Hangman game
+      - [CLI calculator](https://github.com/pynvimdev/Simple-calculator-using-python) A CLI calculator made in python
+      - [Number Guessing game](https://github.com/pynvimdev/Guessing-game) A Python Guessing game 
+
+   
+   - Python tutorials
+      - [Python Tutorials](https://github.com/pynvimdev/Python-Tutorial)
+
+### DotFiles I use 
+   - [Dotfiles](https://github.com/pynvimdev/Dotfiles_public) The Dotfiles I use
+
+
+📈 **My GitHub Stats:**
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pynvimdev&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pynvimdev&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
