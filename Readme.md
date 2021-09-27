@@ -1,5 +1,5 @@
 <div align="center">
-<img height="150" src="https://raw.githubusercontent.com/glepnir/glepnir/master/1.gif" alt="gif with funny random cat say thank you." />
+<img height="150" src="https://github.com/pynvimdev/pynvimdev/blob/main/1.gif" alt="gif with funny random cat say thank you." />
 </div>
 
 <p align="center">
@@ -12,7 +12,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/python-%2300ADD8.svg?&style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/lua-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/>
-<img src="https://img.shields.io/badge/vimscript%20-%23007ACC.svg?&style=for-the-badge&logo=vimscript&logoColor=white"/>
+<img src="https://img.shields.io/badge/vimscript%20-%23007ACC.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
 <img src="https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
 </p>
 
@@ -23,7 +23,7 @@
 <hr/>
 
 
-### <img alt="vim icon" src="https://github.com/glepnir/glepnir/raw/master/octicons/vim.svg" width=24 /> Vim stuffs
+### <img alt="vim icon" src="https://github.com/pynvimdev/pynvimdev/blob/main/vim.svg" width=20 /> Vim stuffs
 
 - <img alt="lua icon" src="https://github.com/glepnir/glepnir/raw/master/octicons/lua.svg" width=24 />  **Written in Lua Neovim Only**
   - [lspsaga.nvim](https://github.com/glepnir/lspsaga.nvim) enhance neovim built-in lsp UI performance
@@ -37,9 +37,9 @@
   - [lsp_extensions.nvim](https://github.com/nvim-lua/lsp_extensions.nvim) Neovim built-in lsp extensions
   - [nvim-lua-guide-zh](https://github.com/glepnir/nvim-lua-guide-zh) nvim lua guide Chinese version
 
-- **Written in Vimscript**
+- <img alt="vim icon" src="https://github.com/pynvimdev/pynvimdev/blob/main/vim.svg" width=24 /> **Written in Vimscript**
   - [dashboard-nvim](https://github.com/glepnir/dashboard-nvim) Vim/Neovim startup plugin
   - [spaceline.vim](https://github.com/glepnir/spaceline.vim) Vim/Neovim statusline plugin like spacemacs
   - [oceanic material](https://github.com/glepnir/oceanic-material) Vim/Neovim Colorscheme
 
-
+### <img alt="python icon" src = "https://github.com/pynvimdev/pynvimdev/blob/main/pythonloa.png" width=24 /> Python stuffs
