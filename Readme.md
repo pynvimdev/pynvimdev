@@ -36,7 +36,7 @@
       - [Python Hangman](https://github.com/pynvimdev/Python_Hangman) A simple Python Hangman game
       - [CLI calculator](https://github.com/pynvimdev/Simple-calculator-using-python) A CLI calculator made in python
       - [Number Guessing game](https://github.com/pynvimdev/Guessing-game) A Python Guessing game 
-      - [A Space Game ](https://github.com/pynvimdev/Space_App)
+      - [A Space Quiz ](https://github.com/pynvimdev/Space_App) Written in Python
 
    
    - Python tutorials
