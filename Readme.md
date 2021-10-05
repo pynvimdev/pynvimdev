@@ -25,9 +25,11 @@
 ### <img alt="vim icon" src="https://github.com/pynvimdev/pynvimdev/blob/main/vim.svg" width=20 /> Vim stuffs
 
 - <img alt="lua icon" src="https://github.com/glepnir/glepnir/raw/master/octicons/lua.svg" width=24 />  **Written in Lua Neovim Only**
+   - [Lspsaga.nvim](https://github.com/pynvimdev/lspsaga.nvim) With support for Neovim 0.6 
 
 
 - <img alt="vim icon" src="https://github.com/pynvimdev/pynvimdev/blob/main/vim.svg" width=24 /> **Written in Vimscript**
+   - [Gruvbox Advanced](https://github.com/pynvimdev/Gruvbox_Advanced) with support for lualine by hobb3rt
 
 
 ### <img alt="python icon" src = "https://github.com/pynvimdev/pynvimdev/blob/main/pythonloa.png" width=24 /> Python stuffs
@@ -38,9 +40,10 @@
       - [Number Guessing game](https://github.com/pynvimdev/Guessing-game) A Python Guessing game 
       - [A Space Quiz ](https://github.com/pynvimdev/Space_App) Written in Python
 
-   
-   - Python tutorials
-      - [Python Tutorials](https://github.com/pynvimdev/Python-Tutorial)
+   - Cloned Projects(improved and upgraded)
+      - [wifite2](https://github.com/pynvimdev/wifite2) A python hacking tool (Added more list of passwords)
+      - 
+      
 
 ### DotFiles I use 
    - [Dotfiles](https://github.com/pynvimdev/Dotfiles_public) The Dotfiles I use
