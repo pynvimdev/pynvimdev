@@ -42,8 +42,6 @@
 
    - Cloned Projects(improved and upgraded)
       - [wifite2](https://github.com/pynvimdev/wifite2) A python hacking tool (Added more list of passwords for better hacking experience)
-      
 
-### DotFiles I use 
-   - [Dotfiles](https://github.com/pynvimdev/Dotfiles_public) The Dotfiles I use
+
 
