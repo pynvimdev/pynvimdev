@@ -41,8 +41,7 @@
       - [A Space Quiz ](https://github.com/pynvimdev/Space_App) Written in Python
 
    - Cloned Projects(improved and upgraded)
-      - [wifite2](https://github.com/pynvimdev/wifite2) A python hacking tool (Added more list of passwords)
-      - 
+      - [wifite2](https://github.com/pynvimdev/wifite2) A python hacking tool (Added more list of passwords for better hacking experience)
       
 
 ### DotFiles I use 
