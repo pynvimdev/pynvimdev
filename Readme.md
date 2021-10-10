@@ -22,6 +22,13 @@
 <hr/>
 
 
+### TODO
+- Build a Passwords Storer app
+- Create a App to track location of a phone number
+- Learn JS
+- Learn SQL with python
+
+
 ### <img alt="vim icon" src="https://github.com/pynvimdev/pynvimdev/blob/main/vim.svg" width=20 /> Vim stuffs
 
 - <img alt="lua icon" src="https://github.com/glepnir/glepnir/raw/master/octicons/lua.svg" width=24 />  **Written in Lua Neovim Only**
