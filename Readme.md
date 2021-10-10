@@ -22,10 +22,11 @@
 <hr/>
 
 
-### TODO
+## TODO
 - Build a Passwords Storer app
 - Create a App to track location of a phone number
 - Learn JS
+- Notepad for Linux
 - Learn SQL with python
 
 
