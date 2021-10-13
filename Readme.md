@@ -34,10 +34,11 @@
 
 - <img alt="lua icon" src="https://github.com/glepnir/glepnir/raw/master/octicons/lua.svg" width=24 />  **Written in Lua Neovim Only**
    - [Lspsaga.nvim](https://github.com/pynvimdev/lspsaga.nvim) With support for Neovim 0.6 
+   - [lualine](https://github.com/pynvimdev/lualine.nvim) Advanced stausline written in lua
 
 
 - <img alt="vim icon" src="https://github.com/pynvimdev/pynvimdev/blob/main/vim.svg" width=24 /> **Written in Vimscript**
-   - [Gruvbox Advanced](https://github.com/pynvimdev/Gruvbox_Advanced) with support for lualine by hobb3rt
+   - [Gruvbox Advanced](https://github.com/pynvimdev/Gruvbox_Advanced) with support for lualine 
 
 
 ### <img alt="python icon" src = "https://github.com/pynvimdev/pynvimdev/blob/main/pythonloa.png" width=24 /> Python stuffs
