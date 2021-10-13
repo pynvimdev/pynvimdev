@@ -28,6 +28,7 @@
 - Learn JS
 - Notepad for Linux
 - SpeedLang Project
+- GMTK game's
 
 
 ### <img alt="vim icon" src="https://github.com/pynvimdev/pynvimdev/blob/main/vim.svg" width=20 /> Vim stuffs
