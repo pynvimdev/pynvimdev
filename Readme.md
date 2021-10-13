@@ -27,7 +27,7 @@
 - Create a App to track location of a phone number
 - Learn JS
 - Notepad for Linux
-- Learn SQL with python
+- SpeedLang Project
 
 
 ### <img alt="vim icon" src="https://github.com/pynvimdev/pynvimdev/blob/main/vim.svg" width=20 /> Vim stuffs
