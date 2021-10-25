@@ -25,10 +25,9 @@
 ## TODO
 - Build a Passwords Storer app
 - Create a App to track location of a phone number
-- Learn JS
 - Notepad for Linux
 - SpeedLang Project
-- GMTK game's
+- Create a website
 
 
 ### <img alt="vim icon" src="https://github.com/pynvimdev/pynvimdev/blob/main/vim.svg" width=20 /> Vim stuffs
