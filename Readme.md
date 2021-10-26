@@ -23,11 +23,11 @@
 
 
 ## TODO
-- Build a Passwords Storer app
-- Create a App to track location of a phone number
-- Notepad for Linux
-- SpeedLang Project
-- Create a website
+- Build a Passwords Storer app #Buf fixes to be done in local machine before uploading 
+- Create a App to track location of a phone number # Not started
+- Notepad for Linux # Not started
+- SpeedLang Project # Not started( But will create website for this project with JS + React )
+- Create a website #Done 
 
 
 ### <img alt="vim icon" src="https://github.com/pynvimdev/pynvimdev/blob/main/vim.svg" width=20 /> Vim stuffs
