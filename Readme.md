@@ -29,6 +29,7 @@
 - SpeedLang Project # Not started( But will create website for this project with JS + React )
 - Create a website #Done 
 - Learn API # Not done
+- Create Github CLI in python
 
 
 ### <img alt="vim icon" src="https://github.com/pynvimdev/pynvimdev/blob/main/vim.svg" width=20 /> Vim stuffs
