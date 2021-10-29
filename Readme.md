@@ -28,7 +28,8 @@
 - Notepad for Linux # Not started
 - SpeedLang Project # Not started( But will create website for this project with JS + React )
 - Create a website #Done 
-- Learn API # Not started
+- Learn API # Not done
+- Email Creater
 
 
 ### <img alt="vim icon" src="https://github.com/pynvimdev/pynvimdev/blob/main/vim.svg" width=20 /> Vim stuffs
