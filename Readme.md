@@ -31,6 +31,7 @@
 - Learn API # Not done
 - Create Github CLI in python
 - Chocoop
+- Wikipedia CLI
 
 
 ### <img alt="vim icon" src="https://github.com/pynvimdev/pynvimdev/blob/main/vim.svg" width=20 /> Vim stuffs
