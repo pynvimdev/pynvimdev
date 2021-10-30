@@ -29,7 +29,7 @@
 - Create Github CLI in python
 - Chocoop
 - Wikipedia CLI
-- Art --> 
+- Art --> WebSite
 
 
 ### <img alt="vim icon" src="https://github.com/pynvimdev/pynvimdev/blob/main/vim.svg" width=20 /> Vim stuffs
