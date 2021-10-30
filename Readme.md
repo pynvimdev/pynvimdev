@@ -25,12 +25,11 @@
 ## TODO
 - Build a Passwords Storer app #Bug fixes to be done in local machine before uploading 
 - Create a App to track location of a phone number # Not started
-- Notepad for Linux # Not started
 - SpeedLang Project # Not started( But will create website for this project with JS + React )
 - Create Github CLI in python
 - Chocoop
 - Wikipedia CLI
-- Art
+- Art --> 
 
 
 ### <img alt="vim icon" src="https://github.com/pynvimdev/pynvimdev/blob/main/vim.svg" width=20 /> Vim stuffs
