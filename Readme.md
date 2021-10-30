@@ -42,7 +42,7 @@
    - [Gruvbox Advanced](https://github.com/pynvimdev/Gruvbox_Advanced) with support for lualine ( requires lualine preinstalled )
 
 
-### <img alt="python icon" src = "https://github.com/pynvimdev/pynvimdev/blob/main/pythonloa.png" width=24 /> Python stuffs
+### <img alt="python icon" src = "https://github.com/pynvimdev/pynvimdev/blob/main/Python.svg" width=24 /> Python stuffs
    
    - Python Projects
       - [Python Hangman](https://github.com/pynvimdev/Python_Hangman) A simple Python Hangman game
