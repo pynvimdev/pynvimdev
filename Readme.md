@@ -51,6 +51,7 @@
       - [CLI calculator](https://github.com/pynvimdev/Simple-calculator-using-python) A CLI calculator made in python
       - [Number Guessing game](https://github.com/pynvimdev/Guessing-game) A Python Guessing game 
       - [A Space Quiz ](https://github.com/pynvimdev/Space_App) Written in Python
+      - [PyGit](https://github.com/pynvimdev/pygit) A simple script to push and pull code using git.
 
    - Cloned Projects(improved and upgraded)
       - [wifite2](https://github.com/pynvimdev/wifite2) A python hacking tool (Added more list of passwords for better hacking experience)
