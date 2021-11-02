@@ -26,8 +26,8 @@
 - Build a Passwords Storer app #Bug fixes to be done in local machine before uploading 
 - Create a App to track location of a phone number # Not started
 - SpeedLang Project # Not started( But will create website for this project with JS + React )
-- Create Github CLI in python
-- Chocoop
+- Create Github CLI in python # difficult
+- Code runner 
 - Wikipedia CLI
 - Art --> WebSite
 
