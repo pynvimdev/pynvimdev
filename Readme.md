@@ -23,12 +23,12 @@
 
 
 ## TODO
-- Build a Passwords Storer app #Bug fixes to be done in local machine before uploading 
+- Build a Passwords Storer app #to be uploaded
 - Create a App to track location of a phone number # Not started
 - SpeedLang Project # Not started( But will create website for this project with JS + React )
 - Create Github CLI in python
-- Chocoop
-- Wikipedia CLI
+- Wikipedia cli
+- Linux Commands for windows
 - Art --> WebSite
 
 
