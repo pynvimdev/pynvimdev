@@ -1,9 +1,7 @@
 ### Hi there 👋 I am Hari
 
-- 🔭 I’m currently working on A react app
-- 🌱 I’m currently learning cplusplus and javascript
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pynvimdev&bg_color=144a19&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=false)
+- 🔭 I’m currently working on STUDYING
+- 🌱 I’m currently learning go and rustlang
 
 
 <h3 align="left">Languages and Tools:</h3>
