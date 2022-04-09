@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Hari
 
-- 🔭 I’m currently working on STUDYING
-- 🌱 I’m currently learning go and rustlang
+- 🔭 I’m currently working on Speachly
+- 🌱 I’m currently learning flutter
 
 
 <h3 align="left">Languages and Tools:</h3>
